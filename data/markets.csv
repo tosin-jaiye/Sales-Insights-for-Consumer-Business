@@ -1,0 +1,11 @@
+market_code,market_name,zone
+MKT001,New York,East
+MKT002,Los Angeles,West
+MKT003,Chicago,Central
+MKT004,Houston,South
+MKT005,Phoenix,West
+MKT006,Philadelphia,East
+MKT007,Dallas,South
+MKT008,Atlanta,South
+MKT009,Seattle,West
+MKT010,Denver,Central

@@ -1,0 +1,7 @@
+# Sales Insights for Consumer Business - Dependencies
+pandas>=1.5.0
+numpy>=1.23.0
+matplotlib>=3.6.0
+seaborn>=0.12.0
+jupyter>=1.0.0
+notebook>=6.5.0
