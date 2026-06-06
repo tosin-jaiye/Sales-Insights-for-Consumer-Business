@@ -81,7 +81,7 @@ Sales-Insights-for-Consumer-Business/
 
 1. Clone the repository
 ```bash
-git clone https://github.com/Goodluck07/Sales-Insights-for-Consumer-Business.git
+git clone https://github.com/tosin-jaiye/Sales-Insights-for-Consumer-Business.git
 cd Sales-Insights-for-Consumer-Business
 ```
 
@@ -114,4 +114,4 @@ jupyter notebook sales_insights_analysis.ipynb
 
 ## Author
 
-**Goodluck Badewole**
+**Tosin Badewole**
